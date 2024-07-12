@@ -1,0 +1,41 @@
+.p1{
+    text-align: center;
+    background-color: rgb(36, 115, 61);
+    color: azure;
+    font-weight: bolder;
+    padding: 30px;
+    font-size: x-large;
+}
+label{
+    margin: 15px;
+    font-weight: bold;
+}
+input{
+    padding-left: 50px;
+}
+.p2{
+    padding-left: 50%;
+}
+.p6{ 
+    padding-left: 14%;
+    margin-left: 1%;
+}
+
+.p3{
+    padding-left: 10%;
+}
+.p4{
+    padding-left: 10%;
+}
+.p8{ 
+    margin-left: 2px;
+   padding-left: 1px;
+}
+p{
+    font-size: 90%;
+    font-weight: bolder;
+
+}
+.container{
+    text-align: center;
+}
